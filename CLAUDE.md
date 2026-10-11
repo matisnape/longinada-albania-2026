@@ -1,5 +1,11 @@
 # Instrukcje dla agenta (Claude Code) pracującego w tym repo
 
+> **ARCHIWUM — nie pracuj w tym repo.** Wyprawa mieszka teraz w
+> [matisnape/cycling_trips](https://github.com/matisnape/cycling_trips) pod
+> `trips/albania-2026/` i tam należy ją edytować. Tutaj zostaje tylko historia
+> i katalog `przekierowanie/`, który odsyła stare adresy na
+> https://anks.pl/cycling_trips/albania-2026/. Instrukcje niżej są nieaktualne.
+
 Repo generuje stronę wyprawy: **jeden plik źródłowy → statyczna strona** publikowana
 przez GitHub Actions na http://anks.pl/longinada-albania-2026/
 
